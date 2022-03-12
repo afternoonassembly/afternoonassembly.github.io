@@ -465,16 +465,16 @@ button:focus {
 
  /******** ITEM ONE SECTION START ********/
 
-.item-one .overlay h4 {
+.item-one .overlay h1 {
     top: 10%;
     left: 10%;
     position: absolute;
     color: #fff;
-    font-size: 16pt;
-    letter-spacing: 2pt;
+    font-size: 28pt;
+    letter-spacing: 0pt;
 }
 
-.item-one .overlay h4:hover {
+.item-one .overlay h1:hover {
     -webkit-transition: all 0.6s ease-in;
     -moz-transition: all 0.6s ease-in;
     -ms-transition: all 0.6s ease-in;
@@ -502,23 +502,23 @@ button:focus {
 }
 
 .work .item-one {
-    background: url('../img/placeholder.png') no-repeat center center;
+    background: url('../img/hero-platforms.png') no-repeat center center;
     background-size: cover;
     height: 800px;
 }
 
 /******** ITEM TWO SECTION START ********/
 
-.item-two .overlay h4 {
+.item-two .overlay h1 {
     top: 10%;
     left: 10%;
     position: absolute;
     color: #fff;
-    font-size: 16pt;
-    letter-spacing: 2pt;
+font-size: 28pt;
+letter-spacing: 0pt;
 }
 
-.item-two .overlay h4:hover {
+.item-two .overlay h1:hover {
     -webkit-transition: all 0.6s ease-in;
     -moz-transition: all 0.6s ease-in;
     -ms-transition: all 0.6s ease-in;
@@ -546,23 +546,23 @@ button:focus {
 }
 
 .work .item-two {
-    background: url('../img/placeholder.png') no-repeat center center;
+    background: url('../img/hero-apps.jpg') no-repeat center center;
     background-size: cover;
     height: 800px;
 }
 
 /******** ITEM THREE SECTION START ********/
 
-.item-three .overlay h4 {
+.item-three .overlay h1 {
     top: 10%;
     left: 10%;
     position: absolute;
     color: #fff;
-    font-size: 16pt;
-    letter-spacing: 2pt;
+font-size: 28pt;
+letter-spacing: 0pt;
 }
 
-.item-three .overlay h4:hover {
+.item-three .overlay h1:hover {
     -webkit-transition: all 0.6s ease-in;
     -moz-transition: all 0.6s ease-in;
     -ms-transition: all 0.6s ease-in;
@@ -590,23 +590,23 @@ button:focus {
 }
 
 .work .item-three {
-    background: url('../img/placeholder.png') no-repeat center center;
+    background: url('../img/hero-blueprint.png') no-repeat center center;
     background-size: cover;
     height: 800px;
 }
 
 /******** ITEM FOUR SECTION START ********/
 
-.item-four .overlay h4 {
+.item-four .overlay h1 {
     top: 10%;
     left: 10%;
     position: absolute;
     color: #fff;
-    font-size: 16pt;
-    letter-spacing: 2pt;
+font-size: 28pt;
+letter-spacing: 0pt;
 }
 
-.item-four .overlay h4:hover {
+.item-four .overlay h1:hover {
     -webkit-transition: all 0.6s ease-in;
     -moz-transition: all 0.6s ease-in;
     -ms-transition: all 0.6s ease-in;
@@ -634,7 +634,7 @@ button:focus {
 }
 
 .work .item-four {
-    background: url('../img/placeholder.png') no-repeat center center;
+    background: url('../img/hero-innovation.jpg') no-repeat center center;
     background-size: cover;
     height: 800px;
 }
